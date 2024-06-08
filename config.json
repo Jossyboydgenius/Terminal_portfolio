@@ -1,0 +1,48 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/Jossyboydgenius/Jossyboydgenius/main/Readme.md",
+  "title": "Awe Joseph | Terminal Portfolio",
+  "name": "Awe Joseph",
+  "ascii": "Awe Joseph",
+  "social": {
+    "github": "jossyboydgenius",
+    "linkedin": "awejosepholaitan"
+  },
+  "email": "awejosepholaitan@gmail.com",
+  "ps1_hostname": "AweJoseph",
+  "ps1_username": "guest",
+  "repo": "https://github.com/Jossyboydgenius/Terminal_portfolio.git",
+  "resume_url": "https://www.polywork.com/josepholaitan_aw",
+  "donate_urls": {
+    "paypal": "https://paypal.me/jossyboydgenius",
+    "patreon": "https://patreon.com/TechApostle"
+  },
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1A1B1F",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#92BA6F",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#C65460"
+    },
+    "oldDark": {
+      "background": "#282828",
+      "foreground": "#ebdbb2",
+        "yellow": "#fabd2f",
+        "green": "#b8bb26",
+        "gray": "#928374",
+        "blue": "#83a598",
+        "red": "#cc241d"
+      }
+    }
+}
